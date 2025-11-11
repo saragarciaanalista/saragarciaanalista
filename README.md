@@ -17,7 +17,8 @@
 
 # Habilidades técnicas y profesionales
 
-<img width="750" height="750" alt="LogosHabilidadesTecnicas" src="https://github.com/user-attachments/assets/5e9bf727-db36-45ba-a9b8-d3acbcca8d5a" />
+<img width="1584" height="396" alt="logoshabilidadestecnicas" src= "https://github.com/user-attachments/assets/b266f9ce-a9ed-437f-a4be-7ef86cc15377" />
+
 
 - **Lenguajes de Programación**: Python
 - **Bases de Datos**: SQL (para interactuar con MySQL, PostgreSQL, SQL Server)
