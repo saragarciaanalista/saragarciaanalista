@@ -76,7 +76,7 @@
 
 
 - 📧 Email: saragarciaanalistadatos@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/sara-garc%C3%ADaanalistadatos/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sara-garciaanalistadatos/)
 - 📂 [Portfolio Website](https://sites.google.com/view/saragarcianalistadedatopowerbi/inicio)
 - 🐙 [GitHub](https://github.com/saragarciaanalista)
 
