@@ -72,7 +72,8 @@
 
 ---
 
-## Si mi trabajo ha despertado tu interés o si ves una oportunidad de colaboración, por favor, no dudes en contactarme. Me entusiasmaría la idea de conectar contigo y explorar cómo el análisis de datos puede ser un motor de crecimiento para tu negocio 
+## Si estos proyectos despertaron tu interés y ves cómo los datos pueden impulsar decisiones más inteligentes, conversemos.
+Puedo ayudarte a transformar la información de tu negocio en una hoja de ruta clara, medible y rentable. 
 
 
 - 📧 Email: saragarciaanalistadatos@gmail.com
