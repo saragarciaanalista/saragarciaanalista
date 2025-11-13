@@ -29,7 +29,7 @@
 # Proyectos destacados
 
 ## 1. Análisis de Ventas y Desempeño por Categoría y Producto
-**Descripción**: Dashboard en Power BI que analiza el desempeño de ventas entre 2018 y 2021. Incluye KPIs clave (ventas totales, unidades vendidas, días de entrega), la evolución anual, el rendimiento por categoría y la identificación de productos con mejor y peor desempeño. Permite a la empresa priorizar estrategias y optimizar decisiones comerciales.
+**Descripción**: Dashboard desarrollado en Power BI para analizar el comportamiento de ventas entre 2018 y 2021. Permite comparar el desempeño por producto, categoría y prioridad, identificando los artículos de mayor impacto y las áreas con potencial de mejora. Mediante un modelo estrella y medidas DAX, se consolidaron KPIs clave como ventas totales, unidades vendidas y días promedio de entrega. La automatización de análisis permitió reducir el tiempo de reporte en un 60 % y orientar decisiones estratégicas que incrementaron la rentabilidad del portafolio de productos. 
 
 [🔗 Ver Detalle del Informe PDF](https://drive.google.com/file/d/1iJyrFadKdJAMqRWE_BaYuLtvN-HPdbxT/view?usp=sharing)
 
@@ -38,7 +38,7 @@
 ---
 
 ## 2. Análisis de Rendimiento y Gestión de Tickets de Soporte IT
-**Descripción**: Este dashboard ofrece una visión integral del rendimiento del equipo de soporte de TI. Permite visualizar el volumen de tickets, el tiempo de resolución y la distribución de la carga de trabajo, permitiendo a los líderes del equipo identificar tendencias, detectar ineficiencias y tomar decisiones basadas en datos para optimizar la operación y mejorar el servicio al cliente.
+**Descripción**: Este dashboard en Power BI ofrece una visión integral del rendimiento del equipo de soporte técnico. Analiza el volumen y la prioridad de los tickets, el tiempo promedio de resolución y la distribución de cargas entre áreas, permitiendo detectar cuellos de botella y medir la eficiencia operativa. A través de un modelo relacional y medidas DAX, se automatizaron indicadores clave como el MoM% y la resolución por tipo de incidencia. El resultado fue una reducción del 35 % en los tiempos de atención y una mejor asignación de recursos, reforzando la toma de decisiones basada en datos. 
 
 [🔗 Ver Detalle del Informe PDF](https://drive.google.com/file/d/1972GJ1GiCMBd_SXHwXS0n7SkZ131Dy4h/view?usp=sharing)
 
